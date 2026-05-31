@@ -1,4 +1,6 @@
 # GLOBAL CYBERSECURITY THREAT ANALYSIS
 This project presents an interactive Power BI dashboard that analyzes global cybersecurity threats from 2015 to 2024. The dashboard provides insights into different types of cyber attacks, affected industries, financial losses, and defense mechanisms used across multiple countries. The objective is to visualize cybersecurity attack patterns and help understand how cyber threats impact industries worldwide. The dashboard enables users to explore trends, identify high-risk sectors, and analyze the effectiveness of security defenses.
 
-• Developed an interactive Power BI dashboard to analyze global cybersecurity threats from 2015–2024 using data visualization and trend analysis techniques.\n• Tools/Techniques: Applied data cleaning, data transformation, DAX calculations, and dashboard visualization techniques using Power BI and Excel.\n•  Outcome: Identified key cybersecurity insights such as increasing cyber attacks, high-risk industries, major vulnerabilities, and financial impact to support better decision-making.
+• Developed an interactive Power BI dashboard to analyze global cybersecurity threats from 2015–2024 using data visualization and trend analysis techniques.
+• Tools/Techniques: Applied data cleaning, data transformation, DAX calculations, and dashboard visualization techniques using Power BI and Excel.
+•  Outcome: Identified key cybersecurity insights such as increasing cyber attacks, high-risk industries, major vulnerabilities, and financial impact to support better decision-making.
